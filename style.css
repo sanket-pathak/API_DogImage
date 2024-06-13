@@ -16,8 +16,8 @@ body{
 }
 #dogImage{
     margin: 5px;
-    height: 400px;
-    width: 700px;
+    height: 60vh;
+    width: 50vw;
     border-radius: 30px;
     background-color: #edd382;
 }
